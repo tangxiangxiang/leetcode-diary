@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: 开始学习
-      link: /markdown-examples
+      link: /0001
     - theme: alt
       text: 题目列表
-      link: /api-examples
+      link: /0001
 
 features:
   - title: ✨系统化学习

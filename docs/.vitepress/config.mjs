@@ -17,16 +17,16 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '全部题目',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '1. 两数之和', link: '/0001' },
+          { text: '2. 两数相加', link: '/api-examples' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/tangxiangxiang/leetcode-diary' }
     ]
   }
 })
