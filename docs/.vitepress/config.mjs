@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/leetcode-diary/",
   title: "LeetCode Diary",
   description: "...",
   themeConfig: {
