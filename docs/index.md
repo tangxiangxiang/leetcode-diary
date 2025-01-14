@@ -6,6 +6,8 @@ hero:
   name: "LeetCode Diary"
   text: "记录我的算法学习之旅"
   tagline: 一个人几乎可以在任何他怀有无限热忱的事情上成功
+  image:
+    src: /image.png
   actions:
     - theme: brand
       text: 开始学习
